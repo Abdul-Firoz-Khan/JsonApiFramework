@@ -1,1 +1,0 @@
-{"uuid":"62264cbc-1bd3-44f3-8612-faab58d68460","name":"com.afk.GETPerson","children":["57c219b2-1517-4341-a920-db03ec17a392"],"befores":[{"name":"init","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1720599865625,"stop":1720599867107}],"afters":[],"start":1720599865513,"stop":1720599868828}
