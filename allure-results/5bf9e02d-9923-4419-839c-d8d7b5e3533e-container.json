@@ -1,0 +1,1 @@
+{"uuid":"5bf9e02d-9923-4419-839c-d8d7b5e3533e","name":"com.afk.DELETEPerson","children":["82701125-c9b7-47ce-a531-29279fcb3756"],"befores":[{"name":"init","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1720615480394,"stop":1720615481884}],"afters":[],"start":1720615480282,"stop":1720615485681}
